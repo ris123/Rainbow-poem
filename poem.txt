@@ -1,7 +1,8 @@
-the rainbow
+the rainbow and unicorn
 
 pink
 violet 
+unicorn
 indigo
 blue
 green
@@ -9,3 +10,5 @@ yellow
 orange
 red
 maroon
+
+this is about rainbow and unicorn
